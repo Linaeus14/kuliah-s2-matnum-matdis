@@ -3,7 +3,7 @@ P = [[], [], []]
 x = 0
 print("\n==Penghitung Interpolasi Kuadrattik==")
 
-#Perulangan input 3 titik dan niai x unutk mencari nilai x
+#Perulangan input 3 titik dan niai x unutk mencari nilai y
 for x in range(3):
     inp = float(input(
         "\n Masukan nilai x titik "+str(x+1)+" : "
